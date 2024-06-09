@@ -1,5 +1,5 @@
 # Kanban Board
-Welcome to our Kanban Board project! This repository contains a powerful and intuitive Kanban board designed to help you visualize your workflow, manage tasks, and boost productivity. Whether you're working solo or collaborating with a team, this tool offers a straightforward way to keep track of your projects and ensure nothing falls through the cracks.
+Welcome to my Kanban Board project! This repository contains a powerful and intuitive Kanban board designed to help you visualize your workflow, manage tasks, and boost productivity. Whether you're working solo or collaborating with a team, this tool offers a straightforward way to keep track of your projects and ensure nothing falls through the cracks.
 Key Features:
 
 -    Visual Task Management: Drag and drop tasks across columns to easily see what needs to be done, what’s in progress, and what’s completed.
